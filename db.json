@@ -1,0 +1,754 @@
+{
+  "brand": {
+    "name": "HALO",
+    "country": "Denmark",
+    "description": "Premium sports and activewear brand",
+    "mission": "FOR ANY TRANSITION",
+    "founded": 2018,
+    "website": "https://www.newlinehalo.dk"
+  },
+  "shipping": {
+    "freeShippingThreshold": 400,
+    "currency": "DKK",
+    "deliveryTime": "1-3 hverdage",
+    "returnPolicy": "30 dage returret"
+  },
+  "categories": {
+    "men": {
+      "id": "men",
+      "name": "Mænd",
+      "subcategories": [
+        {
+          "id": "men_new",
+          "name": "Nyheder",
+          "slug": "men/new"
+        },
+        {
+          "id": "men_fleece",
+          "name": "Fleece",
+          "slug": "men/fleece"
+        },
+        {
+          "id": "men_activewear",
+          "name": "Activewear",
+          "slug": "men/activewear"
+        },
+        {
+          "id": "men_shoes",
+          "name": "Sko",
+          "slug": "men/shoes"
+        },
+        {
+          "id": "men_outdoor",
+          "name": "Outdoor",
+          "slug": "men/outdoor"
+        },
+        {
+          "id": "men_rain",
+          "name": "Built for rain",
+          "slug": "men/rain"
+        },
+        {
+          "id": "men_tshirts",
+          "name": "T-shirts",
+          "slug": "men/t-shirts"
+        },
+        {
+          "id": "men_sweaters",
+          "name": "Trøjer",
+          "slug": "men/sweaters"
+        },
+        {
+          "id": "men_pants",
+          "name": "Bukser",
+          "slug": "men/pants"
+        },
+        {
+          "id": "men_shorts",
+          "name": "Shorts",
+          "slug": "men/shorts"
+        },
+        {
+          "id": "men_jackets",
+          "name": "Jakker og veste",
+          "slug": "men/jackets"
+        }
+      ]
+    },
+    "women": {
+      "id": "women",
+      "name": "Kvinder",
+      "subcategories": [
+        {
+          "id": "women_new",
+          "name": "Nyheder",
+          "slug": "women/new"
+        },
+        {
+          "id": "women_fleece",
+          "name": "Fleece",
+          "slug": "women/fleece"
+        },
+        {
+          "id": "women_shoes",
+          "name": "Sko",
+          "slug": "women/shoes"
+        },
+        {
+          "id": "women_activewear",
+          "name": "Activewear",
+          "slug": "women/activewear"
+        },
+        {
+          "id": "women_outdoor",
+          "name": "Outdoor",
+          "slug": "women/outdoor"
+        },
+        {
+          "id": "women_rain",
+          "name": "Built for rain",
+          "slug": "women/rain"
+        },
+        {
+          "id": "women_tshirts",
+          "name": "T-shirts",
+          "slug": "women/t-shirts"
+        },
+        {
+          "id": "women_tops",
+          "name": "Toppe",
+          "slug": "women/tops"
+        },
+        {
+          "id": "women_sweaters",
+          "name": "Trøjer",
+          "slug": "women/sweaters"
+        },
+        {
+          "id": "women_tights",
+          "name": "Tights",
+          "slug": "women/tights"
+        },
+        {
+          "id": "women_pants",
+          "name": "Bukser",
+          "slug": "women/pants"
+        },
+        {
+          "id": "women_shorts",
+          "name": "Shorts",
+          "slug": "women/shorts"
+        },
+        {
+          "id": "women_jackets",
+          "name": "Jakker og veste",
+          "slug": "women/jackets"
+        }
+      ]
+    },
+    "accessories": {
+      "id": "accessories",
+      "name": "Accessories",
+      "subcategories": [
+        {
+          "id": "bags",
+          "name": "Tasker",
+          "slug": "accessories/bags"
+        },
+        {
+          "id": "hats",
+          "name": "Hatte",
+          "slug": "accessories/hats"
+        },
+        {
+          "id": "sunglasses",
+          "name": "Solbriller",
+          "slug": "accessories/sunglasses"
+        },
+        {
+          "id": "gloves",
+          "name": "Handsker og halstørklæder",
+          "slug": "accessories/gloves"
+        },
+        {
+          "id": "socks",
+          "name": "Strømper",
+          "slug": "accessories/socks"
+        },
+        {
+          "id": "bottles",
+          "name": "Vandflasker",
+          "slug": "accessories/bottles"
+        },
+        {
+          "id": "shoes_acc",
+          "name": "Sko",
+          "slug": "accessories/shoes"
+        }
+      ]
+    }
+  },
+  "products": [
+    {
+      "id": "halo_sorona_ls_001",
+      "name": "HALO SORONA LS",
+      "category": "men_sweaters",
+      "price": 599.95,
+      "currency": "DKK",
+      "sizes": ["2XS", "XS", "S", "M", "L", "XL", "2XL"],
+      "colors": [
+        {
+          "name": "Black",
+          "code": "#000000",
+          "stock": 45
+        },
+        {
+          "name": "Navy",
+          "code": "#1B2951",
+          "stock": 32
+        },
+        {
+          "name": "Grey",
+          "code": "#808080",
+          "stock": 28
+        },
+        {
+          "name": "White",
+          "code": "#FFFFFF",
+          "stock": 38
+        },
+        {
+          "name": "Forest Green",
+          "code": "#228B22",
+          "stock": 22
+        },
+        {
+          "name": "Royal Blue",
+          "code": "#4169E1",
+          "stock": 30
+        },
+        {
+          "name": "Burgundy",
+          "code": "#800020",
+          "stock": 18
+        },
+        {
+          "name": "Charcoal",
+          "code": "#36454F",
+          "stock": 25
+        },
+        {
+          "name": "Olive",
+          "code": "#808000",
+          "stock": 20
+        }
+      ],
+      "material": "Sorona technology blend",
+      "description": "Lightweight outerwear with half zip design. Perfect for transitional weather and active lifestyle.",
+      "features": [
+        "Moisture-wicking technology",
+        "Quick-dry fabric",
+        "Half zip design",
+        "Lightweight construction",
+        "Machine washable"
+      ],
+      "images": [
+        "/images/products/halo-sorona-ls-black-front.jpg",
+        "/images/products/halo-sorona-ls-black-back.jpg",
+        "/images/products/halo-sorona-ls-black-detail.jpg"
+      ],
+      "isNew": true,
+      "isFeatured": true,
+      "inStock": true,
+      "tags": ["activewear", "lightweight", "half-zip", "men"],
+      "gender": "male"
+    },
+    {
+      "id": "halo_graphic_boxy_tee_002",
+      "name": "HALO GRAPHIC BOXY T-SHIRT",
+      "category": "women_tshirts",
+      "price": 399.95,
+      "currency": "DKK",
+      "sizes": ["2XS", "XS", "S", "M", "L", "XL", "2XL"],
+      "colors": [
+        {
+          "name": "White",
+          "code": "#FFFFFF",
+          "stock": 42
+        },
+        {
+          "name": "Black",
+          "code": "#000000",
+          "stock": 38
+        },
+        {
+          "name": "Soft Pink",
+          "code": "#F8BBD9",
+          "stock": 25
+        },
+        {
+          "name": "Light Grey",
+          "code": "#D3D3D3",
+          "stock": 30
+        }
+      ],
+      "material": "100% Organic Cotton",
+      "description": "Relaxed fit graphic t-shirt designed specifically for women. Features unique HALO branding with a comfortable boxy cut.",
+      "features": [
+        "Women's fit",
+        "Organic cotton fabric",
+        "Graphic print",
+        "Boxy cut design",
+        "Soft touch fabric"
+      ],
+      "images": [
+        "/images/products/halo-graphic-boxy-white-front.jpg",
+        "/images/products/halo-graphic-boxy-white-back.jpg"
+      ],
+      "isNew": true,
+      "isFeatured": false,
+      "inStock": true,
+      "tags": ["t-shirt", "graphic", "boxy", "women", "organic"],
+      "gender": "female",
+      "fit": "Women's fit"
+    },
+    {
+      "id": "halo_women_training_sprinters_003",
+      "name": "HALO WOMEN TRAINING SPRINTERS",
+      "category": "women_activewear",
+      "price": 499.95,
+      "currency": "DKK",
+      "sizes": ["XS", "S", "M", "L", "XL"],
+      "colors": [
+        {
+          "name": "Black",
+          "code": "#000000",
+          "stock": 35
+        },
+        {
+          "name": "Navy",
+          "code": "#1B2951",
+          "stock": 28
+        },
+        {
+          "name": "Grey Melange",
+          "code": "#A9A9A9",
+          "stock": 22
+        },
+        {
+          "name": "Deep Purple",
+          "code": "#483D8B",
+          "stock": 18
+        },
+        {
+          "name": "Forest Green",
+          "code": "#228B22",
+          "stock": 20
+        },
+        {
+          "name": "Coral",
+          "code": "#FF7F50",
+          "stock": 15
+        },
+        {
+          "name": "Electric Blue",
+          "code": "#7DF9FF",
+          "stock": 25
+        },
+        {
+          "name": "Rose Gold",
+          "code": "#E8B4B8",
+          "stock": 12
+        }
+      ],
+      "material": "88% Polyester, 12% Elastane",
+      "description": "High-performance training shorts designed for women athletes. Features compression fit and moisture-wicking technology.",
+      "features": [
+        "Compression fit",
+        "Moisture-wicking",
+        "4-way stretch",
+        "Flatlock seams",
+        "Quick-dry technology"
+      ],
+      "images": [
+        "/images/products/halo-women-sprinters-black-front.jpg",
+        "/images/products/halo-women-sprinters-black-side.jpg"
+      ],
+      "isNew": false,
+      "isFeatured": true,
+      "inStock": true,
+      "tags": ["activewear", "training", "compression", "women", "shorts"],
+      "gender": "female"
+    },
+    {
+      "id": "halo_sorona_half_zip_004",
+      "name": "HALO SORONA HALF ZIP",
+      "category": "men_sweaters",
+      "price": 599.95,
+      "currency": "DKK",
+      "sizes": ["2XS", "XS", "S", "M", "L", "XL", "2XL"],
+      "colors": [
+        {
+          "name": "Black",
+          "code": "#000000",
+          "stock": 40
+        },
+        {
+          "name": "Navy",
+          "code": "#1B2951",
+          "stock": 35
+        },
+        {
+          "name": "Grey",
+          "code": "#808080",
+          "stock": 30
+        },
+        {
+          "name": "White",
+          "code": "#FFFFFF",
+          "stock": 25
+        },
+        {
+          "name": "Forest Green",
+          "code": "#228B22",
+          "stock": 22
+        },
+        {
+          "name": "Royal Blue",
+          "code": "#4169E1",
+          "stock": 28
+        },
+        {
+          "name": "Burgundy",
+          "code": "#800020",
+          "stock": 18
+        },
+        {
+          "name": "Charcoal",
+          "code": "#36454F",
+          "stock": 32
+        },
+        {
+          "name": "Olive",
+          "code": "#808000",
+          "stock": 20
+        },
+        {
+          "name": "Camel",
+          "code": "#C19A6B",
+          "stock": 15
+        }
+      ],
+      "material": "Sorona performance fabric",
+      "description": "Light outerwear piece featuring innovative Sorona technology. Perfect for layering and active lifestyle.",
+      "features": [
+        "Sorona technology",
+        "Half zip design",
+        "Lightweight",
+        "Breathable fabric",
+        "Easy care"
+      ],
+      "images": [
+        "/images/products/halo-sorona-half-zip-navy-front.jpg",
+        "/images/products/halo-sorona-half-zip-navy-detail.jpg"
+      ],
+      "isNew": false,
+      "isFeatured": true,
+      "inStock": true,
+      "tags": ["light-outerwear", "half-zip", "sorona", "men"],
+      "gender": "male",
+      "collection": "Light outerwear"
+    },
+    {
+      "id": "halo_classic_tee_005",
+      "name": "HALO Classic Tee",
+      "category": "men_tshirts",
+      "price": 299.95,
+      "currency": "DKK",
+      "sizes": ["XS", "S", "M", "L", "XL", "2XL"],
+      "colors": [
+        {
+          "name": "White",
+          "code": "#FFFFFF",
+          "stock": 50
+        },
+        {
+          "name": "Black",
+          "code": "#000000",
+          "stock": 45
+        },
+        {
+          "name": "Grey",
+          "code": "#808080",
+          "stock": 38
+        },
+        {
+          "name": "Navy",
+          "code": "#1B2951",
+          "stock": 42
+        },
+        {
+          "name": "Red",
+          "code": "#FF0000",
+          "stock": 25
+        }
+      ],
+      "material": "100% Organic Cotton",
+      "description": "Essential everyday t-shirt made from premium organic cotton. Classic fit suitable for daily wear.",
+      "features": [
+        "Organic cotton",
+        "Classic fit",
+        "Soft touch",
+        "Pre-shrunk",
+        "Machine washable"
+      ],
+      "images": [
+        "/images/products/halo-classic-tee-white-front.jpg",
+        "/images/products/halo-classic-tee-white-back.jpg"
+      ],
+      "isNew": false,
+      "isFeatured": false,
+      "inStock": true,
+      "tags": ["t-shirt", "classic", "organic", "men", "everyday"],
+      "gender": "male",
+      "collection": "Tees and shorts"
+    },
+    {
+      "id": "halo_running_shoes_006",
+      "name": "HALO Running Shoes",
+      "category": "men_shoes",
+      "price": 899.95,
+      "currency": "DKK",
+      "sizes": ["36", "37", "38", "39", "40", "41", "42", "43", "44", "45", "46"],
+      "colors": [
+        {
+          "name": "White/Black",
+          "code": "#FFFFFF",
+          "stock": 25
+        },
+        {
+          "name": "Grey/Blue",
+          "code": "#808080",
+          "stock": 20
+        },
+        {
+          "name": "All Black",
+          "code": "#000000",
+          "stock": 30
+        }
+      ],
+      "material": "Mesh upper, EVA sole",
+      "description": "Lightweight running shoes designed for performance and comfort. Features breathable mesh upper and responsive EVA midsole.",
+      "features": [
+        "Lightweight design",
+        "Breathable mesh",
+        "EVA midsole",
+        "Durable outsole",
+        "Comfortable fit"
+      ],
+      "images": [
+        "/images/products/halo-running-shoes-white-side.jpg",
+        "/images/products/halo-running-shoes-white-top.jpg"
+      ],
+      "isNew": false,
+      "isFeatured": false,
+      "inStock": true,
+      "tags": ["shoes", "running", "lightweight", "men"],
+      "gender": "male"
+    },
+    {
+      "id": "halo_compression_tights_007",
+      "name": "HALO Compression Tights",
+      "category": "women_tights",
+      "price": 449.95,
+      "currency": "DKK",
+      "sizes": ["XS", "S", "M", "L", "XL"],
+      "colors": [
+        {
+          "name": "Black",
+          "code": "#000000",
+          "stock": 40
+        },
+        {
+          "name": "Grey",
+          "code": "#808080",
+          "stock": 25
+        },
+        {
+          "name": "Navy",
+          "code": "#1B2951",
+          "stock": 30
+        }
+      ],
+      "material": "78% Polyester, 22% Elastane",
+      "description": "High-performance compression tights for enhanced athletic performance. Features graduated compression and moisture-wicking technology.",
+      "features": [
+        "Compression technology",
+        "Moisture-wicking",
+        "4-way stretch",
+        "Flatlock seams",
+        "High waistband"
+      ],
+      "images": [
+        "/images/products/halo-compression-tights-black-front.jpg",
+        "/images/products/halo-compression-tights-black-side.jpg"
+      ],
+      "isNew": false,
+      "isFeatured": false,
+      "inStock": true,
+      "tags": ["tights", "compression", "performance", "women"],
+      "gender": "female"
+    },
+    {
+      "id": "halo_sports_bag_008",
+      "name": "HALO Sports Bag",
+      "category": "bags",
+      "price": 549.95,
+      "currency": "DKK",
+      "sizes": ["30L", "45L"],
+      "colors": [
+        {
+          "name": "Black",
+          "code": "#000000",
+          "stock": 20
+        },
+        {
+          "name": "Navy",
+          "code": "#1B2951",
+          "stock": 15
+        },
+        {
+          "name": "Grey",
+          "code": "#808080",
+          "stock": 18
+        }
+      ],
+      "material": "Water-resistant nylon",
+      "description": "Practical sports bag perfect for gym sessions and weekend trips. Features multiple compartments and water-resistant material.",
+      "features": [
+        "Water-resistant",
+        "Multiple compartments",
+        "Shoe compartment",
+        "Adjustable straps",
+        "Durable construction"
+      ],
+      "images": [
+        "/images/products/halo-sports-bag-black-front.jpg",
+        "/images/products/halo-sports-bag-black-open.jpg"
+      ],
+      "isNew": false,
+      "isFeatured": false,
+      "inStock": true,
+      "tags": ["bag", "sports", "gym", "accessories"],
+      "gender": "unisex",
+      "collection": "SEASONAL BAGS"
+    }
+  ],
+  "collections": [
+    {
+      "id": "ss25_collection",
+      "name": "THE SS25 COLLECTION",
+      "description": "Spring/Summer 2025 collection featuring the latest designs and innovations",
+      "featured": true,
+      "products": ["halo_sorona_ls_001", "halo_graphic_boxy_tee_002"]
+    },
+    {
+      "id": "icons_collection",
+      "name": "THE ICONS",
+      "description": "Timeless pieces that define the HALO brand",
+      "featured": true,
+      "products": ["halo_sorona_half_zip_004", "halo_classic_tee_005"]
+    },
+    {
+      "id": "activewear_her",
+      "name": "ACTIVEWEAR FOR HER",
+      "description": "Performance activewear designed specifically for women",
+      "featured": true,
+      "products": ["halo_women_training_sprinters_003", "halo_compression_tights_007"]
+    }
+  ],
+  "sizeChart": {
+    "men": {
+      "2XS": {
+        "chest": "44-46 cm",
+        "waist": "76-81 cm"
+      },
+      "XS": {
+        "chest": "46-48 cm",
+        "waist": "81-86 cm"
+      },
+      "S": {
+        "chest": "48-50 cm",
+        "waist": "86-91 cm"
+      },
+      "M": {
+        "chest": "50-52 cm",
+        "waist": "91-96 cm"
+      },
+      "L": {
+        "chest": "52-54 cm",
+        "waist": "96-101 cm"
+      },
+      "XL": {
+        "chest": "54-56 cm",
+        "waist": "101-106 cm"
+      },
+      "2XL": {
+        "chest": "56-58 cm",
+        "waist": "106-111 cm"
+      }
+    },
+    "women": {
+      "2XS": {
+        "bust": "80-84 cm",
+        "waist": "60-64 cm"
+      },
+      "XS": {
+        "bust": "84-88 cm",
+        "waist": "64-68 cm"
+      },
+      "S": {
+        "bust": "88-92 cm",
+        "waist": "68-72 cm"
+      },
+      "M": {
+        "bust": "92-96 cm",
+        "waist": "72-76 cm"
+      },
+      "L": {
+        "bust": "96-100 cm",
+        "waist": "76-80 cm"
+      },
+      "XL": {
+        "bust": "100-104 cm",
+        "waist": "80-84 cm"
+      },
+      "2XL": {
+        "bust": "104-108 cm",
+        "waist": "84-88 cm"
+      }
+    }
+  },
+  "seo": {
+    "keywords": [
+      "idman geyimləri",
+      "HALO brendi",
+      "Danimarka brendləri",
+      "activewear",
+      "idman t-shirt",
+      "fleece geyim",
+      "outdoor geyimlər",
+      "qış geyimləri",
+      "idman çantaları",
+      "qaçış ayaqqabıları"
+    ],
+    "longTailKeywords": [
+      "kişilər üçün idman geyimləri Danimarka",
+      "qadınlar üçün activewear",
+      "su keçirməyən idman geyimi",
+      "organik pambıq t-shirt",
+      "fleece hoodie Danimarka",
+      "kompresiyon tights qadınlar üçün"
+    ]
+  }
+}
